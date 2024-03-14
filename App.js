@@ -6,7 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Danilo Rodrigues </Text>
       <Text>Open up App.js to start working on your app!</Text>
-      <Text>Clone do projeto aula 04-03-2024 3B3 Lado A</Text>
+      <Text>Clone do projeto aula 14-03-2024 3B3 Lado B</Text>
     <Button title='Salvar'></Button>
 
 <Title/>
